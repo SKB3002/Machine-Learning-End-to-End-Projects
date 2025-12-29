@@ -26,4 +26,7 @@ Scikit-Learn | XGBoost | SHAP | Matplotlib | Pandas
 - - Offer incentives to shift month-to-month users to long-term contracts
 - - Launch proactive support programs for customers without tech or online security services
 
-## 4. Speech v/s Music Classification using Librosa - [Link](https://github.com/SKB3002/Advanced-Customer-Churn-Classification-Project)
+## 4. Loan defaulter prediction project - [Link](https://github.com/SKB3002/Loan-Default-Prediction)
+- Built ML models to predict loan default risk using financial and demographic data. Implemented a complete pipeline from data cleaning to explainable model insights.
+- Automated preprocessing (missing values, encoding, outlier handling) and compared multiple ML moodels (Logistic, RandomForest, XGBoost).
+- Explainability with SHAP
